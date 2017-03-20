@@ -1,5 +1,7 @@
 # glTF Extension for Visual Studio Code
 
+[![Join the chat at https://gitter.im/gltf-vscode/Lobby](https://badges.gitter.im/gltf-vscode/Lobby.svg)](https://gitter.im/gltf-vscode/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![GitHub issues](https://img.shields.io/github/issues/AnalyticalGraphicsInc/gltf-vscode.svg)](https://github.com/AnalyticalGraphicsInc/gltf-vscode/issues)
 [![GitHub license button](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/AnalyticalGraphicsInc/gltf-vscode/blob/master/LICENSE.md)
 [![VS Code marketplace button](https://vsmarketplacebadge.apphb.com/installs/cesium.gltf-vscode.svg)](https://marketplace.visualstudio.com/items?itemName=cesium.gltf-vscode)
